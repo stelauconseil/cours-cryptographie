@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cryptographie moderne · accueil</title>
+    <script>
+      // Anciens liens vers le deck (/?deck=…, /?seance=…, /?print-pdf, /#/p2-1) : redirigés vers cours.html
+      if (
+        location.hash.startsWith("#/") ||
+        /[?&](deck|seance|only|partie|print-pdf)\b/.test(location.search)
+      )
+        location.replace("cours.html" + location.search + location.hash);
+    </script>
+    <script type="module" crossorigin src="/assets/index-C4N3SHEM.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/theme-D5ANTdJl.js">
+    <link rel="modulepreload" crossorigin href="/assets/plan-BxhtMa2_.js">
+    <link rel="stylesheet" crossorigin href="/assets/theme-BDOTJMTG.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-DskiQoq7.css">
+  </head>
+  <body class="acc">
+    <main id="accueil"></main>
+  </body>
+</html>
