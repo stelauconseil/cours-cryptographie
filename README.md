@@ -72,6 +72,7 @@ Six séances de trois heures, de l'histoire du chiffre aux portefeuilles d'ident
 | <kbd>Maj</kbd> + <kbd>↓</kbd> <kbd>↑</kbd> | Planche suivante ou précédente sans dérouler les animations |
 | <kbd>S</kbd>                               | Vue présentateur : planche suivante, notes et chronomètre   |
 | <kbd>P</kbd>                               | Pause des animations                                        |
+| <kbd>?</kbd> <kbd>/</kbd>                  | Tous les raccourcis clavier                                 |
 
 Le thème clair ou sombre suit le système. Le bouton ◐ en haut à droite le force.
 
