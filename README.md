@@ -71,7 +71,7 @@ Six séances de trois heures, de l'histoire du chiffre aux portefeuilles d'ident
 | <kbd>Échap</kbd>                           | Vue d'ensemble, une colonne par partie                      |
 | <kbd>Maj</kbd> + <kbd>↓</kbd> <kbd>↑</kbd> | Planche suivante ou précédente sans dérouler les animations |
 | <kbd>S</kbd>                               | Vue présentateur : planche suivante, notes et chronomètre   |
-| <kbd>F</kbd>                               | Plein écran                                                 |
+| <kbd>P</kbd>                               | Pause des animations                                        |
 
 Le thème clair ou sombre suit le système. Le bouton ◐ en haut à droite le force.
 
