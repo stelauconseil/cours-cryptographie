@@ -15,11 +15,11 @@
 Ce dépôt contient **le cours tel qu'il est publié**. Il ne contient pas les sources : c'est le site statique produit
 par la compilation du deck, mis à jour automatiquement à chaque modification du cours.
 
-| Page                                                  | Contenu                                                                             |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [`index.html`](https://cours.stelau.com/)             | L'accueil : la présentation complète, une séance seule (3 h) ou la vue présentateur |
-| [`cours.html`](https://cours.stelau.com/cours.html)   | Le deck : ouverture, sommaire, calendrier puis les séances, partie par partie       |
-| [`badges.html`](https://cours.stelau.com/badges.html) | Les repères visuels des primitives (AES, RSA, SHA, DH, PRNG, AUTH, CERT)            |
+| Page                                                  | Contenu                                                                       |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [`index.html`](https://cours.stelau.com/)             | L'accueil : la présentation complète, l'impression PDF et les repères         |
+| [`cours.html`](https://cours.stelau.com/cours.html)   | Le deck : ouverture, sommaire, calendrier puis les séances, partie par partie |
+| [`badges.html`](https://cours.stelau.com/badges.html) | Les repères visuels des primitives (AES, RSA, SHA, DH, PRNG, AUTH, CERT)      |
 
 ## Le parti pris
 
