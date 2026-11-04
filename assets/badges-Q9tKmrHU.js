@@ -1,4 +1,4 @@
-import{n as e,r as t}from"./theme-lULdLirF.js";import{n,r,t as i}from"./primitives-DjZ-A1Ck.js";e();var a=Object.keys(n),o=e=>a.filter(t=>n[t].groupe===e),s=e=>`<div class="cell"><span class="prim" data-prim="${e}"></span><code>${e}</code><small>${n[e].famille}</small></div>`;document.body.insertAdjacentHTML(`beforeend`,`<style>
+import{n as e,r as t}from"./theme-B-jlehmd.js";import{n,r,t as i}from"./primitives-DjZ-A1Ck.js";e();var a=Object.keys(n),o=e=>a.filter(t=>n[t].groupe===e),s=e=>`<div class="cell"><span class="prim" data-prim="${e}"></span><code>${e}</code><small>${n[e].famille}</small></div>`;document.body.insertAdjacentHTML(`beforeend`,`<style>
     body.refs { margin: 0; padding: 40px 56px; font-family: var(--sans); background: var(--paper); color: var(--ink); }
     .refs h1 { font-size: 26px; font-weight: 600; margin: 0 0 6px; }
     .refs p { color: var(--muted); margin: 0 0 28px; }
