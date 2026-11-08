@@ -1,4 +1,4 @@
-import{n as e,r as t}from"./theme-BR3ECXx9.js";import{n,r,t as i}from"./primitives-B_fyDBUv.js";e();var a=Object.keys(n),o=e=>a.filter(t=>n[t].groupe===e),s=e=>`<div class="cell"><span class="prim" data-prim="${e}"></span><code>${e}</code><small>${n[e].famille}</small></div>`;document.body.insertAdjacentHTML(`beforeend`,`<style>
+import{n as e,r as t}from"./theme-BR3ECXx9.js";import{a as n,n as r,t as i}from"./primitives-DY45iL_N.js";e();var a=Object.keys(r),o=e=>a.filter(t=>r[t].groupe===e),s=e=>`<div class="cell"><span class="prim" data-prim="${e}"></span><code>${e}</code><small>${r[e].famille}</small></div>`;document.body.insertAdjacentHTML(`beforeend`,`<style>
     body.refs { margin: 0; padding: 40px 56px; font-family: var(--sans); background: var(--paper); color: var(--ink); }
     .refs h1 { font-size: 26px; font-weight: 600; margin: 0 0 6px; }
     .refs p { color: var(--muted); margin: 0 0 28px; }
@@ -22,4 +22,4 @@ import{n as e,r as t}from"./theme-BR3ECXx9.js";import{n,r,t as i}from"./primitiv
   <div class="row">${a.map(e=>`<span class="prim" data-prim="${e}" data-h="40"></span>`).join(``)}</div>
   <h2>Icônes seules, dans le texte</h2>
   <div class="txt">${a.map(e=>`<span class="prim-ico" data-prim="${e}"></span> ${e}`).join(` · `)}
-    · ${Object.keys(i).map(e=>`<span class="prim-ico" data-prim="${e}"></span> ${e}`).join(` · `)}</div>`),r(document.body),addEventListener(`keydown`,e=>{e.key.toLowerCase()===`t`&&t()});
+    · ${Object.keys(i).map(e=>`<span class="prim-ico" data-prim="${e}"></span> ${e}`).join(` · `)}</div>`),n(document.body),addEventListener(`keydown`,e=>{e.key.toLowerCase()===`t`&&t()});
