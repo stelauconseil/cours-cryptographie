@@ -1,5 +1,5 @@
 const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/apercu-photo-CJEVx9AB.js","assets/theme-BR3ECXx9.js","assets/theme-ENYqsA1n.css"])))=>i.map(i=>d[i]);
-import{a as e,c as t,i as n,n as r,o as i,r as a,s as o,t as s}from"./theme-BR3ECXx9.js";import{a as c,i as l,r as u,t as d}from"./primitives-DY45iL_N.js";import{t as f}from"./epita-srs-2026-27-CDzqOvsU.js";var p=Object.defineProperty,m=(e,t)=>{let n={};for(var r in e)p(n,r,{get:e[r],enumerable:!0});return t||p(n,Symbol.toStringTag,{value:`Module`}),n},h=`<section class="pl ae-be">
+import{a as e,c as t,i as n,n as r,o as i,r as a,s as o,t as s}from"./theme-BR3ECXx9.js";import{a as c,i as l,r as u,t as d}from"./primitives-DY45iL_N.js";import{t as f}from"./epita-srs-2026-27-wdy2MXv4.js";var p=Object.defineProperty,m=(e,t)=>{let n={};for(var r in e)p(n,r,{get:e[r],enumerable:!0});return t||p(n,Symbol.toStringTag,{value:`Module`}),n},h=`<section class="pl ae-be">
   <div class="wrap">
     <div class="pl-head">
       <div>
