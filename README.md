@@ -17,8 +17,9 @@ par la compilation du deck, mis à jour automatiquement à chaque modification d
 
 | Page                                                  | Contenu                                                                       |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [`index.html`](https://cours.stelau.com/)             | L'accueil : la présentation complète, l'impression PDF et les repères         |
+| [`index.html`](https://cours.stelau.com/)             | L'accueil : la présentation, le plan, l'impression PDF et les repères         |
 | [`cours.html`](https://cours.stelau.com/cours.html)   | Le deck : ouverture, sommaire, calendrier puis les séances, partie par partie |
+| [`plan.html`](https://cours.stelau.com/plan.html)     | Le plan : toutes les planches en miniatures, séance par séance                |
 | [`badges.html`](https://cours.stelau.com/badges.html) | Les repères visuels des primitives (AES, RSA, SHA, DH, PRNG, AUTH, CERT)      |
 
 ## Le parti pris

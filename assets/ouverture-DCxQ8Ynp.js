@@ -1,0 +1,1 @@
+var e=`/assets/ouverture-ChxznJyt.webp`;export{e as t};
