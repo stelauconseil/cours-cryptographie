@@ -5130,28 +5130,6 @@ vérifiée : <span data-v="ok"></span></pre>
       </li>
     </ol>
 
-    <div class="tp-chute fragment">
-      <p class="tp-moto">Prouver sans jamais révéler</p>
-      <dl class="tp-stats">
-        <div>
-          <dt>97 %</dt>
-          <dd>
-            des attaques d'identité visent le mot de passe<small
-              >Microsoft Digital Defense Report 2025</small
-            >
-          </dd>
-        </div>
-        <div>
-          <dt>15 Md</dt>
-          <dd>
-            de comptes en ligne acceptent les passkeys<small
-              >FIDO Alliance, Passkey Index 2025</small
-            >
-          </dd>
-        </div>
-      </dl>
-    </div>
-
     <div class="foot"></div>
   </div>
   <aside class="notes">
