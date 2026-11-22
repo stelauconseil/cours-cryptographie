@@ -77,7 +77,7 @@ En annexe, **Pour aller plus loin** (hors révisions) : cryptanalyse et autres a
 | <kbd>P</kbd>                               | Pause des animations                                        |
 | <kbd>?</kbd> <kbd>/</kbd>                  | Tous les raccourcis clavier                                 |
 
-Le thème clair ou sombre suit le système. Le bouton ◐ en haut à droite le force.
+Le thème clair ou sombre suit le système. Le bouton ◐ en haut à droite déroule le choix : système, clair ou sombre.
 
 ## Fabrication
 
