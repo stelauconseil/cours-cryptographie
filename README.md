@@ -57,10 +57,12 @@ Six séances de trois heures, de l'histoire du chiffre aux portefeuilles d'ident
 
 1. **Introduction** et **Cryptographie n°0** : pourquoi la cryptographie, une très courte histoire du chiffre
 2. **Cryptographie n°1 et n°2** : les cinq primitives
-3. **TP** : OpenSSL, puis l'énigme WannaCry
+3. **TP** : OpenSSL et l'énigme WannaCry
 4. **Cryptographie n°3** et **mécanismes d'authentification** : la signature électronique
 5. **IGC / PKI**, du RGS au wallet, et les protocoles modernes (OpenID, WSCA)
 6. **Révisions** et **évaluation** sur papier
+
+En annexe, **Pour aller plus loin** (hors révisions) : cryptanalyse et autres aspects cryptographiques.
 
 <p align="center"><img src="readme/sommaire.webp" alt="Le sommaire, en mode sombre" width="720"></p>
 
