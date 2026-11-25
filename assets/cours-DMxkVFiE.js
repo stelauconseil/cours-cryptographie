@@ -9502,9 +9502,13 @@ D720A850D97AB1DD35ED5FCE6BF
     </div>
 
     <p class="ql-fin fragment" data-fragment-index="1">
-      <b>Toutes ces réponses.</b> Et le certificat le dit lui-même, dans ses QCStatements\xA0:
-      <span class="mono">QcCompliance</span> (qualifié), <span class="mono">QcSSCD</span> (clé dans
-      un QSCD), <span class="mono">QcType</span> (signature, cachet ou site web).
+      <b>Toutes ces réponses :</b> dans ses extensions QCStatements.
+      <br />
+      <span class="mono responses">QcCompliance</span> (qualifié) ;
+      <br />
+      <span class="mono responses">QcSSCD</span> (clé dans un QSCD) ;
+      <br />
+      <span class="mono responses">QcType</span> (signature, cachet ou site web).
     </p>
 
     <div class="foot"></div>
